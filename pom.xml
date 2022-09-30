@@ -11,7 +11,7 @@
     <properties>
         <java.version>13</java.version>
         <encoding>UTF-8</encoding>
-        <scala.version>2.13.1</scala.version>
+        <scala.version>2.13.9</scala.version>
     </properties>
 
     <dependencies>
